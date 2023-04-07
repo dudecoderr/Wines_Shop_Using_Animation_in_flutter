@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+# Changelog
 
-This project is a starting point for a Flutter application.
+Note: _**last updated january 2023 configured project to latest flutter version 3.7.6**_
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+<img src="" width="200%">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Github Link :
+https://github.com/dudecoderr/Wines_Shop_Using_Animation_in_flutter.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Packages used:**
+- flutter_screenutil: ^5.6.1
+- carousel_slider: ^4.0.0
+- flutter_circular_text: ^0.3.1
+- flutter_staggered_animations: ^1.1.1
+- get: ^4.6.5
